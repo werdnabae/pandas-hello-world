@@ -32,3 +32,11 @@ python process_sensor_data.py
 
 - Python 3.7+
 - pandas
+
+## Sensor Data Processing
+
+This script processes sensor data and now supports Excel files.
+
+### Updates
+- Input and output now use `.xlsx` format instead of `.csv`
+- Output file: `sensor_data_analyzed.xlsx` (ignored in version control)
